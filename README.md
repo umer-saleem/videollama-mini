@@ -1,4 +1,4 @@
-# VideoLLaMA-Mini: A From-Scratch Educational Implementation for Video Understanding
+# VideoLLaMA-Mini: A From-Scratch Implementation for Video Understanding
 
 ## Overview
 
